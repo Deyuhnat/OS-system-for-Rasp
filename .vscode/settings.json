@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "iterator": "c",
+        "xutility": "c",
+        "uart1.h": "c",
+        "cstdint": "c",
+        "stdint.h": "c",
+        "stdarg.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c"
+    }
+}
